@@ -1,0 +1,9 @@
+{
+	"name": "atharvmahakalkar-df",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8e4c0d7e-e4fe-4ed0-88e9-2ec6874a8f43",
+		"tenantId": "fddb7aba-5bec-4400-958c-c2c2eb123011"
+	}
+}
