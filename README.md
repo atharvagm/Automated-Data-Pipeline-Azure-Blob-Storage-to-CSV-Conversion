@@ -1,0 +1,2 @@
+# Automated-Data-Pipeline-Azure-Blob-Storage-to-CSV-Conversion
+The primary objective of this project is to design and implement a seamless, automated pipeline for extracting raw data stored in Azure Blob Storage, transforming it as necessary, and saving it in a structured CSV format. This process aims to simplify data handling, facilitate downstream data analysis, and ensure data consistency and accessibility
